@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ordering system</string>
+    <string name="orderBtn">進入點餐系統</string>
+    <string name="Button01">進入點餐系統</string>
+    <string name="textVIEW01">歡迎光臨蟹堡王</string>
+    <string name="textView01">歡迎光臨蟹堡王</string>
+    <string name="textView02">您點的餐點有：</string>
+</resources>
